@@ -1,0 +1,9 @@
+[submodule "zara-fashion-app"]
+	path = zara-fashion-app
+	url = https://github.com/dianapaula19/zara-fashion-app
+[submodule "score-keeper-app"]
+	path = score-keeper-app
+	url = https://github.com/dianapaula19/score-keeper-app
+[submodule "quiz-app"]
+	path = quiz-app
+	url = https://github.com/dianapaula19/quiz-app
